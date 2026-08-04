@@ -4,7 +4,7 @@ Este es el repositorio de la Quinta Escuela de Cómputo Cuántico.
 
 ## Licencia y Atribución
 
-[![Licencia: CC BY-NC-SA 4.0](https://img.shields.shields.shields.shields.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+[![Licencia: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
 
 Los materiales de este repositorio se distribuyen bajo la licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
 
